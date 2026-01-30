@@ -4,10 +4,6 @@
 ## 🎯 Executive Summary
 This engine is a high-performance diagnostic tool designed to identify **Cash Leaks** in Shopify stores. While standard dashboards show "what" happened, this system uses Python to explain **"why"** profit is leaking and **"how"** to recover it through data-driven inventory and sales analysis.
 
-## 📸 Dashboard Preview
-*(Insert a screenshot or GIF of your Streamlit dashboard here once built)*
-> **Status:** 🏗️ Under Development - Phase 1: Data Auditing & Integrity.
-
 ## 📈 Business Impact & Profit Recovery Focus
 - **Refund Leakage Audit:** Identifying high-return products that destroy net margins.
 - **Inventory Velocity:** Spotting "Dead Stock" to free up tied-up capital.
@@ -31,7 +27,7 @@ The system is built with a modular, industry-standard structure for maximum scal
 
 ## 🤝 Want to Recover Lost Profit in Your Store?
 I help e-commerce brands optimize their supply chain and recover leaking margins using data science.
-**Let's connect on LinkedIn:** [Nesredin Gebeyehu](www.linkedin.com/in/nesredin-gebeyehu-aa4039397 )
+**Let's connect on LinkedIn:** [Nesredin Gebeyehu](https://www.linkedin.com/in/nesredin-gebeyehu-aa4039397)
 
 ---
 *This engine is developed as part of a **45-day High-Intensity Sprint** to engineer advanced supply chain solutions for high-volume Shopify brands.*

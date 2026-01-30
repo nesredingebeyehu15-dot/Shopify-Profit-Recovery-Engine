@@ -1,0 +1,10 @@
+# Data Security
+data/raw/*
+data/processed/*
+data/external/*
+
+# Python System Files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env

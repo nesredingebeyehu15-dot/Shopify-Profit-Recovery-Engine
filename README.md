@@ -31,7 +31,7 @@ The system is built with a modular, industry-standard structure for maximum scal
 
 ## 🤝 Want to Recover Lost Profit in Your Store?
 I help e-commerce brands optimize their supply chain and recover leaking margins using data science.
-**Let's connect on LinkedIn:** [Nesredin Gebeyehu](https://www.linkedin.com/in/nesredin-gebeyehu-aa4039397)
+**Let's connect on LinkedIn:** [Nesredin Gebeyehu](www.linkedin.com/in/nesredin-gebeyehu-aa4039397 )
 
 ---
 *This engine is developed as part of a **45-day High-Intensity Sprint** to engineer advanced supply chain solutions for high-volume Shopify brands.*

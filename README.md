@@ -16,7 +16,7 @@ The system is built with a modular, industry-standard structure for maximum scal
 - `notebooks/`: Exploratory Data Analysis (EDA) and prototype logic for profit auditing.
 - `src/`: Core Python logic for margin calculation and inventory optimization.
 - `docs/`: Professional audit reports and financial summaries for stakeholders.
-
+- `tests/`: Automated scripts to verify the accuracy of financial calculations. 
 ## 🛠 Tech Stack
 - **Language:** Python 3.10+
 - **Data Engine:** Pandas & NumPy (Optimized for 100k+ rows)

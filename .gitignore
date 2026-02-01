@@ -1,10 +1,24 @@
-# Data Security
+# --- Data Security ---
+
 data/raw/*
 data/processed/*
 data/external/*
 
-# Python System Files
+!data/**/.gitkeep
+
+# --- Python & Environment ---
+
+venv/
+.venv/
+env/
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
+
+# --- IDE & Environment Variables ---
 .env
+.vscode/
+.idea/
+.DS_Store
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/

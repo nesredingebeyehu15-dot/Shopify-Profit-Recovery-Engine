@@ -16,7 +16,7 @@ __pycache__/
 
 # --- IDE & Environment Variables ---
 .env
-.vscode/
+
 .idea/
 .DS_Store
 

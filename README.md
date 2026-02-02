@@ -31,3 +31,10 @@ I help e-commerce brands optimize their supply chain and recover leaking margins
 
 ---
 *This engine is developed as part of a **45-day High-Intensity Sprint** to engineer advanced supply chain solutions for high-volume Shopify brands.*
+
+## 📅 45-Day Engineering Log
+
+| Day | Date | Key Achievement | Status |
+| :--- | :--- | :--- | :--- |
+| **01** | Feb 02 | 🏗️ Architecture Setup & Data Pipeline Built | ✅ Completed |
+| **02** | Feb 03 | 🧹 Data Cleaning & Net Sales Logic | ⏳ Pending |
